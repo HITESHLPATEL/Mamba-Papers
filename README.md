@@ -1,4 +1,4 @@
-# Mamba-Research-Hub [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Mamba-Papers-Hub [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 ![](resources/mamba.jpeg)
 
@@ -25,7 +25,7 @@
 | 2024-01 |         U-Mamba         |      Vector Institute for AI & University of Toronto      | [U-Mamba: Enhancing Long-range Dependency for Biomedical Image Segmentation](https://arxiv.org/abs/2401.04722) |   [[Github]](https://github.com/bowang-lab/U-Mamba) |
 | 2024-01 |         Vivim         |      The Hong Kong University of Science and Technology      | [Vivim: a Video Vision Mamba for Video Object Segmentation ](https://arxiv.org/pdf/2401.14168v1.pdf) |   [[Github]](https://github.com/scott-yjyang/vivim) |
 | 2024-01 |         VMamba         |      University of Chinese Academy of Sciences, HUAWEI Inc. & PengCheng Lab      | [VMamba: Visual State Space Model](https://arxiv.org/pdf/2401.10166.pdf) |   [[Github]](https://github.com/MzeroMiko/VMamba) |
- 2024-01 |         MambaTab         |       University of Kentuck       | [MambaTab: A Simple Yet Effective Approach for Handling Tabular Data](https://arxiv.org/pdf/2401.08867.pdf) |   [[Github]]() |
+ 2024-01 |         MambaTab         |       University of Kentucky       | [MambaTab: A Simple Yet Effective Approach for Handling Tabular Data](https://arxiv.org/pdf/2401.08867.pdf) |   [[Github]]() |
 | 2024-02 |         Graph-Mamba         |      University of Toronto      | [Graph-Mamba: Towards Long-Range Graph Sequence Modeling with Selective State Spaces ](https://browse.arxiv.org/pdf/2402.00789.pdf) |   [[Github]](https://github.com/bowang-lab/Graph-Mamba) |
 | 2024-02 |         Swin-UMamba         |      Paul C. Lauterbur Research Center for Biomedical Imaging      | [Swin-UMamba: Mamba-based UNet with ImageNet-based pretraining](https://arxiv.org/pdf/2402.03302.pdf) |   [[Github]](https://github.com/jiarunliu/swin-umamba) |
 | 2024-02 |         BlackMamba         |      Zyphra       | [BlackMamba: Mixture of Experts for State-Space Models](https://arxiv.org/pdf/2402.03302.pdf) |   [[Github]]() |
