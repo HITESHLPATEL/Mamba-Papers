@@ -30,7 +30,7 @@
 | 2024-02 |         Swin-UMamba         |      Paul C. Lauterbur Research Center for Biomedical Imaging      | [Swin-UMamba: Mamba-based UNet with ImageNet-based pretraining](https://arxiv.org/pdf/2402.03302.pdf) |   [[Github]](https://github.com/jiarunliu/swin-umamba) |
 | 2024-02 |         BlackMamba         |      Zyphra       | [BlackMamba: Mixture of Experts for State-Space Models](https://arxiv.org/pdf/2402.03302.pdf) |   [[Github]]() |
 | 2024-02 |         MambaFormer          |      KRAFTON & Seoul National University       | [Can Mamba Learn How to Learn? A Comparative Study on In-Context Learning Tasks](https://arxiv.org/pdf/2402.04248.pdf) |   [[Github]]() |
-| 2024-02 |         U-shaped Vision Mamba         |      Zyphra       | [U-shaped Vision Mamba for Single Image Dehazing](https://arxiv.org/pdf/2402.04139.pdf) |   [[Github]](https://github.com/zzr-idam) |
+| 2024-02 |         U-shaped Vision Mamba         |      Nanjing University       | [U-shaped Vision Mamba for Single Image Dehazing](https://arxiv.org/pdf/2402.04139.pdf) |   [[Github]](https://github.com/zzr-idam) |
 | 2024-02 |         MambaMorph         |       Beihang University       | [MambaMorph: a Mamba-based Backbone with Contrastive Feature Learning for Deformable MR-CT Registration](https://arxiv.org/pdf/2401.13934.pdf) |   [[Github]]() |
 
 
