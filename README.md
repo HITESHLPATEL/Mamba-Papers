@@ -51,6 +51,6 @@ This is an active repository and your contributions are always welcome!
 
 ---
 
-If you have any questions do not hesitate to contact me at hitesh.patel945@gmail.com or bhargava1409@gmail.com
+If you have any questions do not hesitate to contact me at hitesh.patel945@gmail.com, bhargava1409@gmail.com or karangupta485@gmail.com
 
 
