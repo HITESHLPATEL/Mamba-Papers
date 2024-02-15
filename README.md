@@ -39,6 +39,7 @@
 | 2024-02 |         FD-Vision Mamba         |       Nanjing University of Science and Technology       | [FD-Vision Mamba for Endoscopic Exposure Correction](https://arxiv.org/pdf/2402.08506.pdf) |   [[Github]](https://github.com/zzr-idam/FDVM-Net) |
 | 2024-02 |         Semi-Mamba-UNet         |        University of Oxford       | [Semi-Mamba-UNet: Pixel-Level Contrastive Cross-Supervised Visual Mamba-based UNet for Semi-Supervised Medical Image Segmentation](https://arxiv.org/pdf/2402.07245.pdf) |   [[Github]](https://github.com/ziyangwang007/Mamba-UNet) |
 | 2024-02 |         Mamba-ND         |        University of California, Los Angeles       | [Mamba-ND: Selective State Space Modeling for Multi-Dimensional Data](https://arxiv.org/pdf/2402.05892.pdf) |   [[Github]]() |
+| 2024-02 |         Mamba-Diffusion         |        Kunlun Inc.       | [Scalable Diffusion Models with State Space Backbone](https://arxiv.org/pdf/2402.05608.pdf) |   [[Github]]( https://github.com/feizc/DiS) |
 
 
 
