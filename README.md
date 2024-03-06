@@ -40,6 +40,9 @@
 | 2024-02 |         Semi-Mamba-UNet         |        University of Oxford       | [Semi-Mamba-UNet: Pixel-Level Contrastive Cross-Supervised Visual Mamba-based UNet for Semi-Supervised Medical Image Segmentation](https://arxiv.org/pdf/2402.07245.pdf) |   [[Github]](https://github.com/ziyangwang007/Mamba-UNet) |
 | 2024-02 |         Mamba-ND         |        University of California, Los Angeles       | [Mamba-ND: Selective State Space Modeling for Multi-Dimensional Data](https://arxiv.org/pdf/2402.05892.pdf) |   [[Github]]() |
 | 2024-02 |         Mamba-Diffusion         |        Kunlun Inc.       | [Scalable Diffusion Models with State Space Backbone](https://arxiv.org/pdf/2402.05608.pdf) |   [[Github]]( https://github.com/feizc/DiS) |
+| 2024-02 |         Hierarchical Mamba         |        Carnegie Mellon University & Meta       | [Hierarchical State Space Models for Continuous Sequence-to-Sequence Modeling](https://arxiv.org/abs/2402.10211) |   [[Github]](https://hiss-csp.github.io/) |
+| 2024-02 |         Res-VMamba         |        National Taiwan University       | [Res-VMamba: Fine-Grained Food Category Visual Classification Using Selective State Space Models with Deep Residual Learning](https://arxiv.org/abs/2402.15761) |   [[Github]](https://github.com/ChiShengChen/ResVMamba) |
+| 2024-02 |         PointMamba         |        Huazhong University of Science & Technology       | [PointMamba: A Simple State Space Model for Point Cloud Analysis](https://arxiv.org/abs/2402.10739) |   [[Github]](https://github.com/LMD0311/PointMamba) |
 
 
 
