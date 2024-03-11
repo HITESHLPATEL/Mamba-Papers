@@ -53,8 +53,7 @@
 | 2024-03 |         Hidden Attention of Mamba        |          Tel Aviv University       | [The Hidden Attention of Mamba Models](https://arxiv.org/pdf/2403.01590.pdf) |   [[Github]](https://github.com/AmeenAli/HiddenMambaAttn) |
 | 2024-03 |         MED-MAMBA        |          Guangzhou Medical University       | [MEDMAMBA: VISION MAMBA FOR MEDICAL IMAGE CLASSIFICATION](https://arxiv.org/pdf/2403.03849.pdf) |   [[Github]](https://github.com/YubiaoYue/MedMamba) |
 | 2024-03 |         MamMIL        |          Tsinghua University       | [MamMIL: Multiple Instance Learning for Whole Slide Images with State Space Models](https://arxiv.org/pdf/2403.05160.pdf) |   [[Github]]() |
-| 2024-03 |         MambaLithium        |          Ji Hua Laboratory       | [MambaLithium: Selective state space model for remaining-useful-life, state-of-health, and
-state-of-charge estimation of lithium-ion batteries](https://arxiv.org/pdf/2403.05430.pdf) |   [[Github]](https://github.com/zshicode/MambaLithium) |
+| 2024-03 |         MambaLithium        |          Ji Hua Laboratory       | [MambaLithium: Selective state space model for remaining-useful-life, state-of-health, and state-of-charge estimation of lithium-ion batteries](https://arxiv.org/pdf/2403.05430.pdf) |   [[Github]](https://github.com/zshicode/MambaLithium) |
 | 2024-03 |         LightM-UNet        |          Key Laboratory       | [LightM-UNet: Mamba Assists in Lightweight UNet for Medical Image Segmentation](https://arxiv.org/pdf/2403.05246.pdf) |   [[Github]](https://github.com/MrBlankness/LightM-UNet) |
 
 
