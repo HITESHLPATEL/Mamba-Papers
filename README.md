@@ -43,6 +43,19 @@
 | 2024-02 |         Hierarchical Mamba         |        Carnegie Mellon University & Meta       | [Hierarchical State Space Models for Continuous Sequence-to-Sequence Modeling](https://arxiv.org/abs/2402.10211) |   [[Github]](https://hiss-csp.github.io/) |
 | 2024-02 |         Res-VMamba         |        National Taiwan University       | [Res-VMamba: Fine-Grained Food Category Visual Classification Using Selective State Space Models with Deep Residual Learning](https://arxiv.org/abs/2402.15761) |   [[Github]](https://github.com/ChiShengChen/ResVMamba) |
 | 2024-02 |         PointMamba         |        Huazhong University of Science & Technology       | [PointMamba: A Simple State Space Model for Point Cloud Analysis](https://arxiv.org/abs/2402.10739) |   [[Github]](https://github.com/LMD0311/PointMamba) |
+| 2024-02 |         MambaIR         |        Tsinghua University & Shenzhen University       | [MambaIR: A Simple Baseline for Image Restoration with State-Space Model](https://arxiv.org/pdf/2402.15648.pdf) |   [[Github]](https://github.com/csguoh/MambaIR) |
+| 2024-02 |         Pan-Mamba         |        Chinese Academy of Sciences       | [Pan-Mamba: Effective Pan-Sharpening with State Space Model](https://arxiv.org/pdf/2402.12192.pdf) |   [[Github]](https://github.com/alexhe101/Pan-Mamba) |
+| 2024-02 |         Weak-Mamba-UNet         |         University of Oxford       | [Weak-Mamba-UNet: Visual Mamba Makes CNN and ViT Work Better for Scribble-based Medical Image Segmentation](https://arxiv.org/pdf/2402.10887.pdf) |   [[Github]](https://github.com/ziyangwang007/Mamba-UNet) |
+| 2024-02 |         DenseMamba         |         Huawei       | [DenseMamba: State Space Models with Dense Hidden Connection for Efficient Large Language Models](https://arxiv.org/pdf/2403.00818.pdf) |   [[Github]](https://github.com/WailordHe/DenseSSM) |
+| 2024-03 |         Mamba4Rec         |         Texas A&M University       | [Mamba4Rec: Towards Efficient Sequential Recommendation with Selective State Space Models](https://arxiv.org/pdf/2403.03900.pdf) |   [[Github]](https://github.com/chengkai-liu/mamba4rec) |
+| 2024-03 |         MiM-ISTD: Mamba-in-Mamba         |         Alibaba Group       | [MiM-ISTD: Mamba-in-Mamba for Efficient Infrared Small Target Detection](https://arxiv.org/pdf/2403.02148.pdf) |   [[Github]](https://github.com/txchen-USTC/MiM-ISTD) |
+| 2024-03 |         Point Could Mamba         |         Wuhan University       | [Point Could Mamba: Point Cloud Learning via State Space Model](https://arxiv.org/pdf/2403.00762.pdf) |   [[Github]](https://github.com/zhang-tao-whu/PCM) |
+| 2024-03 |         Hidden Attention of Mamba        |          Tel Aviv University       | [The Hidden Attention of Mamba Models](https://arxiv.org/pdf/2403.01590.pdf) |   [[Github]](https://github.com/AmeenAli/HiddenMambaAttn) |
+| 2024-03 |         MED-MAMBA        |          Guangzhou Medical University       | [MEDMAMBA: VISION MAMBA FOR MEDICAL IMAGE CLASSIFICATION](https://arxiv.org/pdf/2403.03849.pdf) |   [[Github]](https://github.com/YubiaoYue/MedMamba) |
+| 2024-03 |         MamMIL        |          Tsinghua University       | [MamMIL: Multiple Instance Learning for Whole Slide Images with State Space Models](https://arxiv.org/pdf/2403.05160.pdf) |   [[Github]]() |
+| 2024-03 |         MambaLithium        |          Ji Hua Laboratory       | [MambaLithium: Selective state space model for remaining-useful-life, state-of-health, and
+state-of-charge estimation of lithium-ion batteries](https://arxiv.org/pdf/2403.05430.pdf) |   [[Github]](https://github.com/zshicode/MambaLithium) |
+| 2024-03 |         LightM-UNet        |          Key Laboratory       | [LightM-UNet: Mamba Assists in Lightweight UNet for Medical Image Segmentation](https://arxiv.org/pdf/2403.05246.pdf) |   [[Github]](https://github.com/MrBlankness/LightM-UNet) |
 
 
 
