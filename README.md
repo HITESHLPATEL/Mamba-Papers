@@ -58,13 +58,10 @@
 | 2024-03 |         MambaMIL        |          Hong Kong University       | [MambaMIL: Enhancing Long Sequence Modeling with Sequence Reordering in Computational Pathology](https://arxiv.org/pdf/2403.06800.pdf) |   [[Github]](https://github.com/isyangshu/MambaMIL) |
 | 2024-03 |         VideoMamba        |          OpenGVLab & Shenzhen Institute       | [VideoMamba: State Space Model for Efficient Video Understanding](https://arxiv.org/abs/2403.06977) |   [[Github]](https://github.com/OpenGVLab/VideoMamba) |
 | 2024-03 |         LargeMamba-UNet        |           Zhejiang University & University of Illinois Urbana-Champaign       | [Large Window-based Mamba UNet for Medical Image Segmentation:Beyond Convolution and Self-attention](https://arxiv.org/pdf/2403.07332.pdf) |   [[Github]](https://github.com/wjh892521292/LMa-UNet) |
-| 2024-03 |         Motion Mamba        |           Monash University & The Australian National University       | [Motion Mamba: Efficient and Long Sequence
-Motion Generation with Hierarchical and Bidirectional Selective SSM](https://arxiv.org/pdf/2403.07332.pdf) |   [[Github]](https://github.com/steve-zeyu-zhang/MotionMamba/) |
-| 2024-03 |         LocalMamba        |           The University of Sydney & University of China       | [LocalMamba: Visual State Space Model with
-Windowed Selective Scan](https://arxiv.org/pdf/2403.09338.pdf) |   [[Github]](https://github.com/hunto/LocalMamba) |
+| 2024-03 |         Motion Mamba        |           Monash University & The Australian National University       | [Motion Mamba: Efficient and Long Sequence Motion Generation with Hierarchical and Bidirectional Selective SSM](https://arxiv.org/pdf/2403.07332.pdf) |   [[Github]](https://github.com/steve-zeyu-zhang/MotionMamba/) |
+| 2024-03 |         LocalMamba        |           The University of Sydney & University of China       | [LocalMamba: Visual State Space Model with Windowed Selective Scan](https://arxiv.org/pdf/2403.09338.pdf) |   [[Github]](https://github.com/hunto/LocalMamba) |
 | 2024-03 |         MambaTalk        |           Tsinghua University       | [MambaTalk: Efficient Holistic Gesture Synthesis with Selective State Space Models](https://arxiv.org/pdf/2403.09471.pdf) |   [[Github]]() |
-| 2024-03 |         ClinicalMamba        |           Tsinghua University       | [ClinicalMamba: A Generative Clinical Language Model on Longitudinal
-Clinical Notes](https://arxiv.org/pdf/2403.05795.pdf) |   [[Github]](https://github.com/whaleloops/ClinicalMamba) |
+| 2024-03 |         ClinicalMamba        |           Tsinghua University       | [ClinicalMamba: A Generative Clinical Language Model on Longitudinal Clinical Notes](https://arxiv.org/pdf/2403.05795.pdf) |   [[Github]](https://github.com/whaleloops/ClinicalMamba) |
 | 2024-03 |         Video Mamba Suite        |           Nanjing University       | [Video Mamba Suite: State Space Model as a Versatile Alternative for Video Understanding](https://arxiv.org/pdf/2403.09626.pdf) |   [[Github]](https://github.com/OpenGVLab/video-mamba-suite) |
 
 
