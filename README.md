@@ -63,6 +63,8 @@
 | 2024-03 |         MambaTalk        |           Tsinghua University       | [MambaTalk: Efficient Holistic Gesture Synthesis with Selective State Space Models](https://arxiv.org/pdf/2403.09471.pdf) |   [[Github]]() |
 | 2024-03 |         ClinicalMamba        |           Tsinghua University       | [ClinicalMamba: A Generative Clinical Language Model on Longitudinal Clinical Notes](https://arxiv.org/pdf/2403.05795.pdf) |   [[Github]](https://github.com/whaleloops/ClinicalMamba) |
 | 2024-03 |         Video Mamba Suite        |           Nanjing University       | [Video Mamba Suite: State Space Model as a Versatile Alternative for Video Understanding](https://arxiv.org/pdf/2403.09626.pdf) |   [[Github]](https://github.com/OpenGVLab/video-mamba-suite) |
+| 2024-03 |         EfficientVMamba        |           The University of Sydney       | [EfficientVMamba: Atrous Selective Scan for Light Weight Visual Mamba](https://arxiv.org/pdf/2403.09977.pdf) |   [[Github]](https://github.com/TerryPei/EfficientVMamba) |
+
 
 
 
