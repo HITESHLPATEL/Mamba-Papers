@@ -64,6 +64,9 @@
 | 2024-03 |         ClinicalMamba        |           Tsinghua University       | [ClinicalMamba: A Generative Clinical Language Model on Longitudinal Clinical Notes](https://arxiv.org/pdf/2403.05795.pdf) |   [[Github]](https://github.com/whaleloops/ClinicalMamba) |
 | 2024-03 |         Video Mamba Suite        |           Nanjing University       | [Video Mamba Suite: State Space Model as a Versatile Alternative for Video Understanding](https://arxiv.org/pdf/2403.09626.pdf) |   [[Github]](https://github.com/OpenGVLab/video-mamba-suite) |
 | 2024-03 |         EfficientVMamba        |           The University of Sydney       | [EfficientVMamba: Atrous Selective Scan for Light Weight Visual Mamba](https://arxiv.org/pdf/2403.09977.pdf) |   [[Github]](https://github.com/TerryPei/EfficientVMamba) |
+| 2024-03 |         STG-Mamba        |           University of New South Wales       | [STG-Mamba: Spatial-Temporal Graph Learning via Selective State Space Model](https://arxiv.org/pdf/2403.12418.pdf) |   [[Github]]() |
+| 2024-03 |         S-D-Mamba        |           Northeastern University       | [Is Mamba Effective for Time Series Forecasting?](https://arxiv.org/pdf/2403.11144.pdf) |   [[Github]](https://github.com/wzhwzhwzh0921/S-D-Mamba) |
+| 2024-03 |         Low-shot-[V]-Mamba        |           Mila - Quebec AI Institute,       | [On the low-shot transferability of [V]-Mamba](https://arxiv.org/pdf/2403.10696.pdf) |   [[Github]]() |
 
 
 
