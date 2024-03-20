@@ -76,12 +76,17 @@
 - [Yannic Kilcher] Mamba Paper Explained [Youtube](https://www.youtube.com/watch?v=9dSkvxS2EB0)
 - [Umar Jamil] Mamba and S4 Explained [Youtube](https://www.youtube.com/watch?v=8Q_tqwpTpVU)
 - [1littlecoder] MoE-Mamba [Youtube](https://www.youtube.com/watch?v=tZD3-uO0RJ0)
+- [AI Coffee Break with Letitia] SSM explained [Youtube](https://www.youtube.com/watch?v=vrF3MtGwD0Y)
+- [Samuel Albanie ] Mamba - a replacement for Transformers? [Youtube](https://www.youtube.com/watch?v=ouF-H35atOY)
 
 
 ## Blogs
-- [Joe El khoury] What is Mamba? [Medium](https://medium.com/@jelkhoury880/what-is-mamba-845987734ffc)
+- [Joe El Khoury] What is Mamba? [Medium](https://medium.com/@jelkhoury880/what-is-mamba-845987734ffc)
 - [Vishal Rajput] Mamba: Can it replace Transformers? [Medium](https://medium.com/aiguys/mamba-can-it-replace-transformers-fe2032537916)
 - [Azhar] Decoding Mamba [Medium](https://medium.com/ai-insights-cobet/decoding-mamba-the-next-big-leap-in-ai-sequence-modeling-ef3908060cb8)
+- [Maarten Grootendorst] A Visual Guide to Mamba and State Space Models [Substack](https://maartengrootendorst.substack.com/p/a-visual-guide-to-mamba-and-state)
+- [Joe El Khoury] Why Mamba was rejected? [Medium](https://medium.com/@jelkhoury880/why-mamba-was-rejected-9b2f05f2141c)
+  
 
 
 ## Contributing
