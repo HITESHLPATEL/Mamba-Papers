@@ -77,7 +77,9 @@
 - [Umar Jamil] Mamba and S4 Explained [Youtube](https://www.youtube.com/watch?v=8Q_tqwpTpVU)
 - [1littlecoder] MoE-Mamba [Youtube](https://www.youtube.com/watch?v=tZD3-uO0RJ0)
 - [AI Coffee Break with Letitia] SSM explained [Youtube](https://www.youtube.com/watch?v=vrF3MtGwD0Y)
-- [Samuel Albanie ] Mamba - a replacement for Transformers? [Youtube](https://www.youtube.com/watch?v=ouF-H35atOY)
+- [Samuel Albanie] Mamba - a replacement for Transformers? [Youtube](https://www.youtube.com/watch?v=ouF-H35atOY)
+- [hu-po] Video Mamba vs Motion Mamba [Youtube](https://www.youtube.com/watch?v=rzXjKcqkjxM)
+- [ Fahd Mirza] Install Mamba - State Space Model [Youtube](https://www.youtube.com/watch?app=desktop&v=SX8OL1DGW-I&embeds_referring_euri=https%3A%2F%2Fprimo.ai%2Ffeature=emb_imp_woyt)
 
 
 ## Blogs
