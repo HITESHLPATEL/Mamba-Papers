@@ -66,8 +66,11 @@
 | 2024-03 |         EfficientVMamba        |           The University of Sydney       | [EfficientVMamba: Atrous Selective Scan for Light Weight Visual Mamba](https://arxiv.org/pdf/2403.09977.pdf) |   [[Github]](https://github.com/TerryPei/EfficientVMamba) |
 | 2024-03 |         STG-Mamba        |           University of New South Wales       | [STG-Mamba: Spatial-Temporal Graph Learning via Selective State Space Model](https://arxiv.org/pdf/2403.12418.pdf) |   [[Github]]() |
 | 2024-03 |         S-D-Mamba        |           Northeastern University       | [Is Mamba Effective for Time Series Forecasting?](https://arxiv.org/pdf/2403.11144.pdf) |   [[Github]](https://github.com/wzhwzhwzh0921/S-D-Mamba) |
-| 2024-03 |         Low-shot-[V]-Mamba        |           Mila - Quebec AI Institute,       | [On the low-shot transferability of [V]-Mamba](https://arxiv.org/pdf/2403.10696.pdf) |   [[Github]]() |
-
+| 2024-03 |         Low-shot-[V]-Mamba        |           Mila - Quebec AI Institute       | [On the low-shot transferability of [V]-Mamba](https://arxiv.org/pdf/2403.10696.pdf) |   [[Github]]() |
+| 2024-03 |         ZigMa        |           LMU Munich       | [ZigMa: Zigzag Mamba Diffusion Model](https://arxiv.org/pdf/2403.13802.pdf) |   [[Github]](https://github.com/CompVis/zigma) |
+| 2024-03 |         ProMamba        |           Peking University       | [ProMamba: Prompt-Mamba for polyp segmentation](https://arxiv.org/pdf/2403.13660.pdf) |   [[Github]]() |
+| 2024-03 |         VL-Mamba        |           The University of Adelaide       | [VL-Mamba: Exploring State Space Models for Multimodal Learning](https://arxiv.org/pdf/2403.13600.pdf) |   [[Github]](https://github.com/ZhengYu518/VL-Mamba) |
+| 2024-03 |         H-vmunet        |           Shanghai University        | [H-vmunet: High-order Vision Mamba UNet for Medical Image Segmentation](https://arxiv.org/pdf/2403.13642.pdf) |   [[Github]](https://github.com/wurenkai/H-vmunet) |
 
 
 
