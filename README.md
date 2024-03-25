@@ -72,6 +72,7 @@
 | 2024-03 |         VL-Mamba        |           The University of Adelaide       | [VL-Mamba: Exploring State Space Models for Multimodal Learning](https://arxiv.org/pdf/2403.13600.pdf) |   [[Github]](https://github.com/ZhengYu518/VL-Mamba) |
 | 2024-03 |         H-vmunet        |           Shanghai University        | [H-vmunet: High-order Vision Mamba UNet for Medical Image Segmentation](https://arxiv.org/pdf/2403.13642.pdf) |   [[Github]](https://github.com/wurenkai/H-vmunet) |
 | 2024-03 |         Cobra        |           Westlake University & Zhejiang University        | [Cobra: Extending Mamba to Multi-Modal Large Language Model for Efficient Inference](https://arxiv.org/pdf/2403.14520.pdf) |   [[Github]](https://github.com/h-zhao1997/cobra) |
+| 2024-03 |         SiMBA        |           Microsoft        | [SiMBA: Simplified Mamba-based Architecture for Vision and Multivariate Time series](https://arxiv.org/pdf/2403.15360.pdf) |   [[Github]](https://github.com/badripatro/Simba) |
 
 
 
